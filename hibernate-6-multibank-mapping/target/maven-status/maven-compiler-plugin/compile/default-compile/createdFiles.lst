@@ -1,0 +1,4 @@
+br/com/lucotavio/hibernatemultibankmapping/domain/Person.class
+br/com/lucotavio/hibernatemultibankmapping/main/InsertPersonMain.class
+br/com/lucotavio/hibernatemultibankmapping/domain/Person$PersonBuilder.class
+br/com/lucotavio/hibernatemultibankmapping/Hibernate6MultibankMapping.class
